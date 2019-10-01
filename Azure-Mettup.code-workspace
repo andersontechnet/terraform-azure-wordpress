@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "/Users/andersoncarvalho/fefc"
+		},
+		{
+			"name": "terraform-azure-mysql",
+			"path": "/Users/andersoncarvalho/fefc/src/terraform-azure-mysql"
+		}
+	],
+	"settings": {}
+}
